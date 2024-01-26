@@ -1,5 +1,5 @@
 import { Header } from "./components/Header";
-import { Footer } from "./components/footer";
+import { Footer } from "./components/Footer";
 import global from "./assets/global.svg"
 import play from "./assets/play-cricle.svg"
 import paisagem1 from "./assets/paisagem1.jpg"
