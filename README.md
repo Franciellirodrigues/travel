@@ -16,7 +16,6 @@
 
 <p align="center">
  <a href="#-about">About</a> •
- <a href="#-Features">Features</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-tech-stack">Tech Stack</a> • 
  <a href="#-author">Author</a> • 
@@ -31,20 +30,10 @@
 
 ## 💻 About
 
-The application that we will develop is a digital menu for a fictional restaurant, known as foodExplorer.
-In this challenge, the following topics were addressed:
-
 - React;
 - components;
 ---
 
-## ⚙️ Features
-
-- [x] A structured project, with a good organization of folders, division of components in the front-end, etc.
-- [x] A README.md file with specifications on how to run the project in a dev environment.
-- [x] It meets the model proposed in Figma and contains elements indicative of action and state.
-opcionais
----
 
 ## 🎨 Layout 
 
@@ -56,16 +45,9 @@ opcionais
 </p>
 
 
-
-
 ## 🚀 How it works
 
 1. Frontend (travel-frontend folder)
-
-💡 The Frontend needs the Backend to be running to work.
-
-### Pre-requisites
-Before you begin, you will need to have the following tools installed on your machine: [Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/). In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/)
 
 
 #### 🧭 Running the web application (Frontend)
