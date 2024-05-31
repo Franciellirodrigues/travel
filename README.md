@@ -34,17 +34,6 @@
 - components;
 ---
 
-
-## 🎨 Layout 
-
-### Web
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="travel" title="#travel" src="https://ik.imagekit.io/uw8itmckuzw/travel_YhsZ_VNk6Q.PNG?updatedAt=1706292315204" width="100%">
-
-</p>
-
-
 ## 🚀 How it works
 
 1. Frontend (travel-frontend folder)
